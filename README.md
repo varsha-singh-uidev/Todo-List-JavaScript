@@ -16,14 +16,14 @@ A lightweight JavaScript To-Do List application that lets users add, edit, delet
 
 ## 📂 Project Structure
 
-├── index.html        # Main HTML file
-├── style.css         # Styling for the app
-├── script.js         # Core JavaScript logic
-├── sounds/           # Sound effects (submit, delete, edit)
-│   ├── submit-button.mp3
-│   ├── delete-button.mp3
-│   └── edit-button.mp3
-└── background.jpg    # Background image
+- index.html        # Main HTML file
+- style.css         # Styling for the app
+- script.js         # Core JavaScript logic
+- sounds/           # Sound effects (submit, delete, edit)
+  -- submit-button.mp3
+  -- delete-button.mp3
+  -- edit-button.mp3
+- background.jpg    # Background image
 
 ## ⚙️ Installation & Usage
 - Clone the repository: git clone https://github.com/varsha-singh-uidev/Todo-List-JavaScript.git
